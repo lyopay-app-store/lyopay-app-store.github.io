@@ -1,0 +1,130 @@
+
+
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-thin-webfont.woff2') format('woff2'),
+         url('visbycf-thin-webfont.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-thinoblique-webfont.woff2') format('woff2'),
+         url('visbycf-thinoblique-webfont.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-light-webfont.woff2') format('woff2'),
+         url('visbycf-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-lightoblique-webfont.woff2') format('woff2'),
+         url('visbycf-lightoblique-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-regular-webfont.woff2') format('woff2'),
+         url('visbycf-regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-regularoblique-webfont.woff2') format('woff2'),
+         url('visbycf-regularoblique-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-medium-webfont.woff2') format('woff2'),
+         url('visbycf-medium-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-mediumoblique-webfont.woff2') format('woff2'),
+         url('visbycf-mediumoblique-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-demibold-webfont.woff2') format('woff2'),
+         url('visbycf-demibold-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-demiboldoblique-webfont.woff2') format('woff2'),
+         url('visbycf-demiboldoblique-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-bold-webfont.woff2') format('woff2'),
+         url('visbycf-bold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-boldoblique-webfont.woff2') format('woff2'),
+         url('visbycf-boldoblique-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-extrabold-webfont.woff2') format('woff2'),
+         url('visbycf-extrabold-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-extraboldoblique-webfont.woff2') format('woff2'),
+         url('visbycf-extraboldoblique-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-heavy-webfont.woff2') format('woff2'),
+         url('visbycf-heavy-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'visby';
+    src: url('visbycf-heavyoblique-webfont.woff2') format('woff2'),
+         url('visbycf-heavyoblique-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+
+
+
+
+
